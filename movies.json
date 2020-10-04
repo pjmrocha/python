@@ -1,0 +1,8 @@
+{ "items": [
+  {"name": "Movie1", "tags": ["80", "comedy"]},
+  {"name": "Movie2", "tags": ["90", "comedy", "crime"]},
+  {"name": "Movie3", "tags": ["80", "fantasy", "comedy"]},
+  {"name": "Movie4", "tags": ["70", "crime", "scifi"]},
+  {"name": "Movie5", "tags": ["90", "crime"]}
+  ]
+}
